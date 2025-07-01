@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<p align="left">I'm Shravani , An Data Science, Machine Learning and AI Enthusiast.</p>
+<p align="left">I'm Shravani , A Data Science, Machine Learning and AI Enthusiast.</p>
 
 ###
 
@@ -66,10 +66,3 @@
   </a>
 </div>
 
-###
-
-<div align="center">
-  <img height="200" src="C:\Users\Admin\Downloads\WhatsApp Image 2025-06-22 at 2.52.39 PM.jpeg"  />
-</div>
-
-###
